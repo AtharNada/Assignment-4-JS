@@ -1,0 +1,51 @@
+body {
+    background-color: #24353f;
+}
+
+#content {
+    background-color: #24353f;
+    box-shadow: 2px 5px 25px 5px black;
+}
+
+.cntinput::placeholder {
+    color: rgb(156, 156, 156);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.header {
+    color: #17a2b8;
+}
+
+span {
+    color: white;
+}
+
+.btn:hover {
+    color: white;
+}
+
+.navbar {
+    background-color: #24353f;
+    box-shadow: 2px 1px 25px 1px black;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.wlcm {
+    background-color: #24353f;
+    box-shadow: 2px 5px 25px 5px black;
+}
+
+.wlcm h2 {
+    color: #17a2b8;
+}
